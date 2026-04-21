@@ -1,0 +1,17 @@
+KPI,Value
+Total Encounters,71515.0
+30-Day Readmission Rate (%),8.8
+Overall Readmission Rate (%),39.9
+Avg Length of Stay (days),4.29
+Median Length of Stay (days),3.0
+Avg Number of Diagnoses,7.25
+Avg Number of Medications,15.7
+HbA1c Testing Coverage (%),18.16
+Glucose Testing Coverage (%),4.83
+High-Risk Patient Proportion (%),3.79
+Medication Change Rate (%),44.78
+Diabetes Medication Prescribed (%),75.95
+Primary Diagnosis = Diabetes (%),8.12
+Avg Prior Inpatient Visits,0.18
+Avg Prior Emergency Visits,0.1
+Avg Prior Outpatient Visits,0.28

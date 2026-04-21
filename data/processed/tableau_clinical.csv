@@ -1,0 +1,897 @@
+admission_type,discharge_disposition,diag_1_category,total_encounters,readmissions_30d,readmit_rate_30d,avg_length_of_stay,avg_num_procedures,avg_lab_procedures
+Elective,AMA (Against Medical Advice),Circulatory System,11,2,18.18,3.45,2.36,41.73
+Elective,AMA (Against Medical Advice),Digestive System,1,0,0.0,1.0,2.0,47.0
+Elective,AMA (Against Medical Advice),Endocrine/Metabolic (incl. Diabetes),3,1,33.33,1.33,0.0,31.33
+Elective,AMA (Against Medical Advice),Genitourinary System,1,0,0.0,1.0,0.0,34.0
+Elective,AMA (Against Medical Advice),Injury & Poisoning,1,0,0.0,2.0,6.0,42.0
+Elective,AMA (Against Medical Advice),Mental Disorders,3,0,0.0,6.0,1.33,40.0
+Elective,AMA (Against Medical Advice),Musculoskeletal,1,0,0.0,8.0,1.0,55.0
+Elective,AMA (Against Medical Advice),Pregnancy & Childbirth,2,0,0.0,4.0,1.0,63.5
+Elective,AMA (Against Medical Advice),Respiratory System,1,0,0.0,6.0,1.0,1.0
+Elective,AMA (Against Medical Advice),Skin & Subcutaneous,1,0,0.0,2.0,1.0,49.0
+Elective,AMA (Against Medical Advice),Supplementary (V-codes),2,0,0.0,4.0,2.0,19.0
+Elective,AMA (Against Medical Advice),Symptoms & Ill-defined,2,1,50.0,2.0,2.0,46.0
+Elective,AMA (Against Medical Advice),Unknown,1,0,0.0,3.0,0.0,66.0
+Elective,Admitted as Inpatient,Supplementary (V-codes),1,1,100.0,3.0,2.0,46.0
+Elective,Critical Access Hospital,Circulatory System,3,2,66.67,3.0,1.67,19.33
+Elective,Critical Access Hospital,Endocrine/Metabolic (incl. Diabetes),2,1,50.0,2.0,0.0,27.0
+Elective,Critical Access Hospital,Mental Disorders,3,3,100.0,3.67,0.0,43.67
+Elective,Discharged to Home,Blood & Immune,86,7,8.14,3.41,1.52,36.93
+Elective,Discharged to Home,Circulatory System,3077,220,7.15,2.96,3.38,33.9
+Elective,Discharged to Home,Congenital Anomalies,13,1,7.69,3.31,2.46,34.15
+Elective,Discharged to Home,Digestive System,601,38,6.32,3.81,1.66,35.51
+Elective,Discharged to Home,Endocrine/Metabolic (incl. Diabetes),647,40,6.18,3.17,1.08,32.65
+Elective,Discharged to Home,Genitourinary System,549,26,4.74,2.84,1.95,29.58
+Elective,Discharged to Home,Infectious & Parasitic,75,7,9.33,5.2,1.03,41.81
+Elective,Discharged to Home,Injury & Poisoning,423,27,6.38,3.04,2.21,30.76
+Elective,Discharged to Home,Mental Disorders,176,8,4.55,7.24,0.2,38.92
+Elective,Discharged to Home,Musculoskeletal,873,29,3.32,2.74,1.98,27.37
+Elective,Discharged to Home,Neoplasms,942,54,5.73,4.16,2.35,31.67
+Elective,Discharged to Home,Nervous System & Sense Organs,74,7,9.46,3.72,1.28,31.7
+Elective,Discharged to Home,Pregnancy & Childbirth,354,16,4.52,2.93,1.71,29.84
+Elective,Discharged to Home,Respiratory System,404,25,6.19,4.54,0.72,38.99
+Elective,Discharged to Home,Skin & Subcutaneous,143,5,3.5,3.7,0.63,35.5
+Elective,Discharged to Home,Supplementary (V-codes),218,30,13.76,6.45,1.28,36.2
+Elective,Discharged to Home,Symptoms & Ill-defined,299,16,5.35,2.25,1.06,31.57
+Elective,Discharged to Home,Unknown,2,0,0.0,4.0,1.5,36.5
+Elective,Expired,Blood & Immune,1,0,0.0,10.0,0.0,76.0
+Elective,Expired,Circulatory System,30,0,0.0,5.17,3.4,50.73
+Elective,Expired,Digestive System,3,0,0.0,3.67,1.0,58.67
+Elective,Expired,Endocrine/Metabolic (incl. Diabetes),5,0,0.0,3.0,4.2,48.6
+Elective,Expired,Genitourinary System,2,0,0.0,10.0,2.5,59.5
+Elective,Expired,Infectious & Parasitic,7,0,0.0,3.71,2.14,46.29
+Elective,Expired,Injury & Poisoning,3,0,0.0,5.33,2.67,24.67
+Elective,Expired,Musculoskeletal,1,0,0.0,10.0,6.0,72.0
+Elective,Expired,Neoplasms,16,0,0.0,6.31,2.5,50.19
+Elective,Expired,Nervous System & Sense Organs,1,0,0.0,4.0,2.0,64.0
+Elective,Expired,Respiratory System,10,0,0.0,3.9,2.2,46.7
+Elective,Expired,Skin & Subcutaneous,1,0,0.0,11.0,1.0,72.0
+Elective,Expired,Symptoms & Ill-defined,2,0,0.0,9.0,2.5,52.5
+Elective,Home Health Service,Blood & Immune,3,2,66.67,5.67,2.67,45.33
+Elective,Home Health Service,Circulatory System,542,55,10.15,6.14,3.54,47.51
+Elective,Home Health Service,Congenital Anomalies,4,0,0.0,4.75,3.0,41.5
+Elective,Home Health Service,Digestive System,49,6,12.24,5.31,2.35,36.24
+Elective,Home Health Service,Endocrine/Metabolic (incl. Diabetes),118,8,6.78,5.79,1.96,39.0
+Elective,Home Health Service,Genitourinary System,43,4,9.3,5.4,2.3,39.16
+Elective,Home Health Service,Infectious & Parasitic,13,0,0.0,8.54,1.69,51.0
+Elective,Home Health Service,Injury & Poisoning,113,4,3.54,4.58,2.06,34.28
+Elective,Home Health Service,Mental Disorders,5,0,0.0,9.4,0.4,24.6
+Elective,Home Health Service,Musculoskeletal,576,13,2.26,3.87,1.57,26.15
+Elective,Home Health Service,Neoplasms,155,13,8.39,5.99,2.66,38.65
+Elective,Home Health Service,Nervous System & Sense Organs,9,1,11.11,5.11,1.0,36.44
+Elective,Home Health Service,Pregnancy & Childbirth,6,0,0.0,3.33,1.33,32.67
+Elective,Home Health Service,Respiratory System,54,2,3.7,6.07,1.24,36.96
+Elective,Home Health Service,Skin & Subcutaneous,49,6,12.24,5.39,1.27,35.49
+Elective,Home Health Service,Supplementary (V-codes),187,13,6.95,8.44,0.88,35.29
+Elective,Home Health Service,Symptoms & Ill-defined,18,2,11.11,6.0,1.06,33.17
+Elective,Home IV Service,Endocrine/Metabolic (incl. Diabetes),2,0,0.0,6.5,3.5,33.0
+Elective,Home IV Service,Injury & Poisoning,5,1,20.0,7.4,2.4,35.6
+Elective,Home IV Service,Pregnancy & Childbirth,1,0,0.0,3.0,1.0,22.0
+Elective,Home IV Service,Supplementary (V-codes),2,0,0.0,9.0,1.5,43.5
+Elective,Hospice / Home,Blood & Immune,1,0,0.0,5.0,1.0,35.0
+Elective,Hospice / Home,Circulatory System,5,1,20.0,7.6,1.4,22.4
+Elective,Hospice / Home,Endocrine/Metabolic (incl. Diabetes),3,0,0.0,9.0,2.67,46.67
+Elective,Hospice / Home,Genitourinary System,1,0,0.0,3.0,3.0,42.0
+Elective,Hospice / Home,Injury & Poisoning,1,0,0.0,5.0,1.0,57.0
+Elective,Hospice / Home,Mental Disorders,1,0,0.0,5.0,0.0,1.0
+Elective,Hospice / Home,Neoplasms,11,0,0.0,7.91,1.27,48.36
+Elective,Hospice / Home,Respiratory System,6,0,0.0,4.0,0.5,38.67
+Elective,Hospice / Home,Supplementary (V-codes),1,0,0.0,5.0,0.0,49.0
+Elective,Hospice / Medical Facility,Circulatory System,5,0,0.0,8.8,1.6,42.0
+Elective,Hospice / Medical Facility,Digestive System,1,0,0.0,2.0,0.0,32.0
+Elective,Hospice / Medical Facility,Genitourinary System,3,0,0.0,4.0,1.0,45.0
+Elective,Hospice / Medical Facility,Infectious & Parasitic,2,0,0.0,6.0,0.5,55.0
+Elective,Hospice / Medical Facility,Musculoskeletal,1,0,0.0,7.0,3.0,57.0
+Elective,Hospice / Medical Facility,Neoplasms,5,1,20.0,5.8,0.6,28.8
+Elective,Hospice / Medical Facility,Respiratory System,1,0,0.0,14.0,0.0,64.0
+Elective,Hospice / Medical Facility,Supplementary (V-codes),2,0,0.0,4.0,1.0,39.5
+Elective,ICF (Intermediate Care),Blood & Immune,1,0,0.0,2.0,1.0,4.0
+Elective,ICF (Intermediate Care),Circulatory System,6,1,16.67,5.17,2.67,43.33
+Elective,ICF (Intermediate Care),Digestive System,3,1,33.33,3.33,3.33,40.67
+Elective,ICF (Intermediate Care),Endocrine/Metabolic (incl. Diabetes),5,1,20.0,4.0,0.8,39.2
+Elective,ICF (Intermediate Care),Genitourinary System,3,0,0.0,3.0,1.0,20.0
+Elective,ICF (Intermediate Care),Injury & Poisoning,4,0,0.0,7.0,2.25,44.75
+Elective,ICF (Intermediate Care),Mental Disorders,1,0,0.0,11.0,0.0,35.0
+Elective,ICF (Intermediate Care),Musculoskeletal,3,2,66.67,4.0,1.0,37.33
+Elective,ICF (Intermediate Care),Neoplasms,1,0,0.0,8.0,2.0,65.0
+Elective,ICF (Intermediate Care),Respiratory System,1,0,0.0,3.0,0.0,31.0
+Elective,ICF (Intermediate Care),Symptoms & Ill-defined,4,0,0.0,3.5,0.75,37.25
+Elective,Long-term Hospital Transfer,Blood & Immune,1,1,100.0,1.0,3.0,31.0
+Elective,Long-term Hospital Transfer,Circulatory System,17,1,5.88,9.35,3.53,44.53
+Elective,Long-term Hospital Transfer,Digestive System,1,0,0.0,4.0,3.0,32.0
+Elective,Long-term Hospital Transfer,Endocrine/Metabolic (incl. Diabetes),4,0,0.0,5.25,1.75,43.0
+Elective,Long-term Hospital Transfer,Genitourinary System,3,0,0.0,6.67,4.0,65.0
+Elective,Long-term Hospital Transfer,Infectious & Parasitic,4,0,0.0,7.75,0.75,34.75
+Elective,Long-term Hospital Transfer,Injury & Poisoning,4,0,0.0,10.75,4.25,47.25
+Elective,Long-term Hospital Transfer,Mental Disorders,1,0,0.0,14.0,0.0,61.0
+Elective,Long-term Hospital Transfer,Musculoskeletal,3,0,0.0,7.33,2.0,43.33
+Elective,Long-term Hospital Transfer,Neoplasms,1,0,0.0,11.0,4.0,41.0
+Elective,Long-term Hospital Transfer,Respiratory System,3,0,0.0,10.0,2.0,51.33
+Elective,Long-term Hospital Transfer,Skin & Subcutaneous,3,0,0.0,6.0,0.67,42.33
+Elective,Long-term Hospital Transfer,Symptoms & Ill-defined,1,0,0.0,5.0,1.0,34.0
+Elective,Medicaid Facility,Circulatory System,2,0,0.0,3.5,0.5,35.0
+Elective,Medicaid Facility,Musculoskeletal,1,0,0.0,2.0,0.0,2.0
+Elective,Medicaid Facility,Neoplasms,1,0,0.0,8.0,2.0,57.0
+Elective,Not Mapped,Circulatory System,1,0,0.0,3.0,0.0,1.0
+Elective,Other Institution Transfer,Blood & Immune,2,1,50.0,1.5,1.0,35.0
+Elective,Other Institution Transfer,Circulatory System,18,4,22.22,6.83,2.28,50.72
+Elective,Other Institution Transfer,Digestive System,4,0,0.0,4.5,1.25,48.5
+Elective,Other Institution Transfer,Endocrine/Metabolic (incl. Diabetes),10,4,40.0,5.5,1.2,35.3
+Elective,Other Institution Transfer,Genitourinary System,2,0,0.0,7.5,0.0,26.0
+Elective,Other Institution Transfer,Injury & Poisoning,15,4,26.67,5.2,2.07,38.27
+Elective,Other Institution Transfer,Mental Disorders,17,1,5.88,5.41,0.0,33.76
+Elective,Other Institution Transfer,Musculoskeletal,91,18,19.78,4.51,1.81,37.79
+Elective,Other Institution Transfer,Neoplasms,8,2,25.0,7.75,3.25,45.75
+Elective,Other Institution Transfer,Nervous System & Sense Organs,5,0,0.0,10.0,0.2,32.6
+Elective,Other Institution Transfer,Respiratory System,4,1,25.0,5.75,0.0,43.5
+Elective,Other Institution Transfer,Supplementary (V-codes),3,1,33.33,7.33,0.33,40.67
+Elective,Other Institution Transfer,Symptoms & Ill-defined,3,3,100.0,4.0,0.67,38.33
+Elective,Other Institution Transfer,Unknown,1,0,0.0,1.0,2.0,12.0
+Elective,Rehab Facility Transfer,Blood & Immune,2,0,0.0,3.5,3.5,33.0
+Elective,Rehab Facility Transfer,Circulatory System,60,22,36.67,7.03,3.25,41.68
+Elective,Rehab Facility Transfer,Congenital Anomalies,1,0,0.0,3.0,3.0,21.0
+Elective,Rehab Facility Transfer,Digestive System,3,3,100.0,5.33,2.33,41.67
+Elective,Rehab Facility Transfer,Endocrine/Metabolic (incl. Diabetes),29,12,41.38,6.48,2.45,41.9
+Elective,Rehab Facility Transfer,Infectious & Parasitic,2,1,50.0,8.5,2.5,59.5
+Elective,Rehab Facility Transfer,Injury & Poisoning,50,10,20.0,4.92,1.72,36.3
+Elective,Rehab Facility Transfer,Musculoskeletal,256,59,23.05,4.2,2.09,27.74
+Elective,Rehab Facility Transfer,Neoplasms,20,7,35.0,8.1,2.05,47.5
+Elective,Rehab Facility Transfer,Nervous System & Sense Organs,4,2,50.0,6.5,1.0,45.75
+Elective,Rehab Facility Transfer,Respiratory System,4,0,0.0,8.25,1.0,63.75
+Elective,Rehab Facility Transfer,Supplementary (V-codes),1,0,0.0,3.0,2.0,4.0
+Elective,Rehab Facility Transfer,Symptoms & Ill-defined,4,1,25.0,3.75,0.5,34.25
+Elective,SNF (Skilled Nursing),Blood & Immune,9,1,11.11,5.44,1.78,36.44
+Elective,SNF (Skilled Nursing),Circulatory System,202,23,11.39,6.64,2.49,43.85
+Elective,SNF (Skilled Nursing),Congenital Anomalies,1,0,0.0,4.0,3.0,36.0
+Elective,SNF (Skilled Nursing),Digestive System,34,7,20.59,6.29,1.56,42.68
+Elective,SNF (Skilled Nursing),Endocrine/Metabolic (incl. Diabetes),93,15,16.13,5.49,1.83,35.86
+Elective,SNF (Skilled Nursing),Genitourinary System,35,6,17.14,5.89,0.97,39.17
+Elective,SNF (Skilled Nursing),Infectious & Parasitic,11,3,27.27,7.0,1.18,25.18
+Elective,SNF (Skilled Nursing),Injury & Poisoning,141,12,8.51,4.87,1.84,37.14
+Elective,SNF (Skilled Nursing),Mental Disorders,36,2,5.56,10.69,0.11,45.78
+Elective,SNF (Skilled Nursing),Musculoskeletal,428,66,15.42,4.14,1.82,30.52
+Elective,SNF (Skilled Nursing),Neoplasms,61,7,11.48,6.98,3.03,39.77
+Elective,SNF (Skilled Nursing),Nervous System & Sense Organs,35,3,8.57,7.14,0.89,43.03
+Elective,SNF (Skilled Nursing),Respiratory System,67,6,8.96,6.51,0.58,44.16
+Elective,SNF (Skilled Nursing),Skin & Subcutaneous,31,2,6.45,5.94,1.58,33.06
+Elective,SNF (Skilled Nursing),Supplementary (V-codes),21,1,4.76,8.14,0.95,37.57
+Elective,SNF (Skilled Nursing),Symptoms & Ill-defined,19,0,0.0,5.58,0.84,38.21
+Elective,SNF (Skilled Nursing),Unknown,1,0,0.0,3.0,1.0,34.0
+Elective,Short-term Hospital Transfer,Blood & Immune,1,0,0.0,3.0,3.0,56.0
+Elective,Short-term Hospital Transfer,Circulatory System,54,8,14.81,3.61,2.46,34.54
+Elective,Short-term Hospital Transfer,Digestive System,6,1,16.67,4.17,2.33,33.83
+Elective,Short-term Hospital Transfer,Endocrine/Metabolic (incl. Diabetes),5,1,20.0,5.4,1.4,57.2
+Elective,Short-term Hospital Transfer,Genitourinary System,6,4,66.67,4.17,1.33,39.17
+Elective,Short-term Hospital Transfer,Infectious & Parasitic,1,0,0.0,5.0,2.0,50.0
+Elective,Short-term Hospital Transfer,Injury & Poisoning,7,4,57.14,5.71,1.71,45.0
+Elective,Short-term Hospital Transfer,Mental Disorders,15,7,46.67,5.0,0.2,46.6
+Elective,Short-term Hospital Transfer,Musculoskeletal,12,1,8.33,3.67,2.0,40.5
+Elective,Short-term Hospital Transfer,Neoplasms,5,0,0.0,6.4,1.4,48.2
+Elective,Short-term Hospital Transfer,Nervous System & Sense Organs,3,1,33.33,10.0,1.33,60.0
+Elective,Short-term Hospital Transfer,Pregnancy & Childbirth,1,0,0.0,1.0,0.0,18.0
+Elective,Short-term Hospital Transfer,Respiratory System,4,0,0.0,6.5,1.0,25.75
+Elective,Short-term Hospital Transfer,Skin & Subcutaneous,4,1,25.0,4.0,1.0,37.5
+Elective,Short-term Hospital Transfer,Supplementary (V-codes),32,20,62.5,6.62,0.72,41.0
+Elective,Short-term Hospital Transfer,Symptoms & Ill-defined,6,4,66.67,7.17,1.5,22.17
+Elective,Swing Bed,Circulatory System,1,0,0.0,12.0,0.0,36.0
+Elective,Swing Bed,Digestive System,2,0,0.0,6.5,2.5,57.5
+Elective,Swing Bed,Musculoskeletal,1,0,0.0,5.0,1.0,40.0
+Elective,Swing Bed,Neoplasms,1,0,0.0,6.0,1.0,19.0
+Elective,Swing Bed,Respiratory System,1,0,0.0,10.0,5.0,78.0
+Emergency,AMA (Against Medical Advice),Blood & Immune,1,0,0.0,1.0,2.0,49.0
+Emergency,AMA (Against Medical Advice),Circulatory System,61,9,14.75,2.44,0.52,45.39
+Emergency,AMA (Against Medical Advice),Digestive System,24,4,16.67,3.38,0.83,51.5
+Emergency,AMA (Against Medical Advice),Endocrine/Metabolic (incl. Diabetes),56,6,10.71,2.39,0.45,48.55
+Emergency,AMA (Against Medical Advice),Genitourinary System,13,1,7.69,3.77,0.54,52.69
+Emergency,AMA (Against Medical Advice),Infectious & Parasitic,5,0,0.0,4.2,0.2,46.8
+Emergency,AMA (Against Medical Advice),Injury & Poisoning,14,1,7.14,3.5,0.71,44.79
+Emergency,AMA (Against Medical Advice),Mental Disorders,13,1,7.69,2.85,0.54,53.23
+Emergency,AMA (Against Medical Advice),Musculoskeletal,3,0,0.0,1.67,0.0,69.67
+Emergency,AMA (Against Medical Advice),Neoplasms,3,0,0.0,6.0,2.33,57.0
+Emergency,AMA (Against Medical Advice),Nervous System & Sense Organs,6,0,0.0,2.33,0.17,34.5
+Emergency,AMA (Against Medical Advice),Pregnancy & Childbirth,1,0,0.0,3.0,0.0,52.0
+Emergency,AMA (Against Medical Advice),Respiratory System,32,5,15.62,3.66,0.5,53.12
+Emergency,AMA (Against Medical Advice),Skin & Subcutaneous,9,0,0.0,3.44,0.44,40.67
+Emergency,AMA (Against Medical Advice),Supplementary (V-codes),1,0,0.0,3.0,0.0,65.0
+Emergency,AMA (Against Medical Advice),Symptoms & Ill-defined,37,3,8.11,2.05,0.27,41.27
+Emergency,Admitted as Inpatient,Circulatory System,1,0,0.0,2.0,0.0,11.0
+Emergency,Admitted as Inpatient,Digestive System,1,0,0.0,7.0,3.0,79.0
+Emergency,Admitted as Inpatient,Injury & Poisoning,1,0,0.0,7.0,0.0,36.0
+Emergency,Admitted as Inpatient,Mental Disorders,1,0,0.0,6.0,0.0,50.0
+Emergency,Critical Access Hospital,Circulatory System,2,2,100.0,3.0,1.0,62.0
+Emergency,Critical Access Hospital,Digestive System,4,3,75.0,6.0,1.0,50.5
+Emergency,Critical Access Hospital,Endocrine/Metabolic (incl. Diabetes),7,3,42.86,4.14,0.14,47.0
+Emergency,Critical Access Hospital,Genitourinary System,4,1,25.0,6.0,0.0,68.5
+Emergency,Critical Access Hospital,Injury & Poisoning,13,2,15.38,2.77,0.69,47.77
+Emergency,Critical Access Hospital,Mental Disorders,8,4,50.0,3.12,0.38,36.62
+Emergency,Critical Access Hospital,Nervous System & Sense Organs,1,1,100.0,4.0,0.0,57.0
+Emergency,Critical Access Hospital,Respiratory System,4,2,50.0,2.5,0.25,47.5
+Emergency,Critical Access Hospital,Skin & Subcutaneous,1,1,100.0,2.0,0.0,40.0
+Emergency,Critical Access Hospital,Symptoms & Ill-defined,5,1,20.0,2.8,0.0,37.0
+Emergency,Discharged to Home,Blood & Immune,206,7,3.4,3.52,1.45,47.05
+Emergency,Discharged to Home,Circulatory System,6526,571,8.75,3.69,1.79,45.73
+Emergency,Discharged to Home,Congenital Anomalies,7,0,0.0,4.86,1.57,55.29
+Emergency,Discharged to Home,Digestive System,2822,183,6.48,3.88,1.28,46.82
+Emergency,Discharged to Home,Endocrine/Metabolic (incl. Diabetes),2883,196,6.8,3.29,0.43,48.57
+Emergency,Discharged to Home,External Causes (E-codes),1,0,0.0,5.0,4.0,76.0
+Emergency,Discharged to Home,Genitourinary System,1038,78,7.51,3.69,0.84,50.67
+Emergency,Discharged to Home,Infectious & Parasitic,629,52,8.27,4.36,0.71,52.0
+Emergency,Discharged to Home,Injury & Poisoning,1012,64,6.32,3.76,1.3,41.91
+Emergency,Discharged to Home,Mental Disorders,511,35,6.85,5.05,0.45,48.39
+Emergency,Discharged to Home,Musculoskeletal,324,17,5.25,3.85,0.91,42.63
+Emergency,Discharged to Home,Neoplasms,311,41,13.18,5.49,1.84,48.66
+Emergency,Discharged to Home,Nervous System & Sense Organs,280,12,4.29,3.22,0.42,43.34
+Emergency,Discharged to Home,Pregnancy & Childbirth,37,1,2.7,2.92,1.11,35.76
+Emergency,Discharged to Home,Respiratory System,2518,146,5.8,4.34,0.47,46.44
+Emergency,Discharged to Home,Skin & Subcutaneous,509,28,5.5,4.05,0.61,40.81
+Emergency,Discharged to Home,Supplementary (V-codes),9,0,0.0,3.33,1.11,39.44
+Emergency,Discharged to Home,Symptoms & Ill-defined,2763,128,4.63,2.32,0.64,42.16
+Emergency,Discharged to Home,Unknown,1,0,0.0,2.0,0.0,30.0
+Emergency,Expired,Blood & Immune,1,0,0.0,11.0,0.0,74.0
+Emergency,Expired,Circulatory System,258,0,0.0,4.16,2.01,54.34
+Emergency,Expired,Digestive System,40,0,0.0,4.55,2.62,55.25
+Emergency,Expired,Endocrine/Metabolic (incl. Diabetes),33,0,0.0,4.52,1.61,61.24
+Emergency,Expired,Genitourinary System,27,0,0.0,4.74,1.04,60.52
+Emergency,Expired,Infectious & Parasitic,86,0,0.0,4.42,1.99,59.47
+Emergency,Expired,Injury & Poisoning,53,0,0.0,4.53,2.64,51.0
+Emergency,Expired,Musculoskeletal,6,0,0.0,5.5,2.33,51.17
+Emergency,Expired,Neoplasms,39,0,0.0,5.72,0.9,51.38
+Emergency,Expired,Nervous System & Sense Organs,10,0,0.0,2.1,1.1,54.5
+Emergency,Expired,Respiratory System,150,0,0.0,5.25,1.65,54.47
+Emergency,Expired,Skin & Subcutaneous,6,0,0.0,7.5,2.33,53.33
+Emergency,Expired,Supplementary (V-codes),1,0,0.0,2.0,1.0,63.0
+Emergency,Expired,Symptoms & Ill-defined,9,0,0.0,1.56,1.33,48.89
+Emergency,Expired (at home),Injury & Poisoning,3,0,0.0,2.0,3.33,49.0
+Emergency,Home Health Service,Blood & Immune,35,6,17.14,5.31,1.63,54.6
+Emergency,Home Health Service,Circulatory System,1180,102,8.64,5.53,1.38,50.94
+Emergency,Home Health Service,Congenital Anomalies,2,0,0.0,3.0,1.0,18.5
+Emergency,Home Health Service,Digestive System,289,30,10.38,6.2,1.63,52.5
+Emergency,Home Health Service,Endocrine/Metabolic (incl. Diabetes),503,61,12.13,5.03,0.92,48.94
+Emergency,Home Health Service,Genitourinary System,234,33,14.1,4.77,0.71,52.22
+Emergency,Home Health Service,Infectious & Parasitic,157,13,8.28,6.45,1.04,56.64
+Emergency,Home Health Service,Injury & Poisoning,319,34,10.66,5.4,1.61,44.7
+Emergency,Home Health Service,Mental Disorders,39,3,7.69,5.31,0.31,47.56
+Emergency,Home Health Service,Musculoskeletal,80,6,7.5,5.34,1.09,45.84
+Emergency,Home Health Service,Neoplasms,79,8,10.13,7.28,2.1,55.87
+Emergency,Home Health Service,Nervous System & Sense Organs,52,4,7.69,4.79,0.4,50.21
+Emergency,Home Health Service,Pregnancy & Childbirth,2,0,0.0,7.0,4.5,55.5
+Emergency,Home Health Service,Respiratory System,563,62,11.01,5.67,0.63,48.05
+Emergency,Home Health Service,Skin & Subcutaneous,199,18,9.05,5.52,1.03,44.8
+Emergency,Home Health Service,Supplementary (V-codes),4,0,0.0,5.5,1.0,25.0
+Emergency,Home Health Service,Symptoms & Ill-defined,206,17,8.25,3.74,0.49,45.74
+Emergency,Home Health Service,Unknown,1,0,0.0,8.0,0.0,62.0
+Emergency,Home IV Service,Blood & Immune,1,0,0.0,5.0,0.0,51.0
+Emergency,Home IV Service,Circulatory System,3,0,0.0,5.67,1.33,61.0
+Emergency,Home IV Service,Endocrine/Metabolic (incl. Diabetes),4,0,0.0,6.75,2.0,44.25
+Emergency,Home IV Service,Infectious & Parasitic,4,1,25.0,8.0,2.75,64.0
+Emergency,Home IV Service,Injury & Poisoning,1,0,0.0,10.0,3.0,42.0
+Emergency,Home IV Service,Musculoskeletal,3,0,0.0,6.67,0.67,51.0
+Emergency,Home IV Service,Neoplasms,1,0,0.0,9.0,2.0,44.0
+Emergency,Home IV Service,Skin & Subcutaneous,7,1,14.29,4.0,1.29,42.43
+Emergency,Home IV Service,Symptoms & Ill-defined,1,0,0.0,4.0,2.0,46.0
+Emergency,Hospice / Home,Blood & Immune,1,0,0.0,5.0,3.0,37.0
+Emergency,Hospice / Home,Circulatory System,46,2,4.35,6.2,0.37,51.33
+Emergency,Hospice / Home,Digestive System,11,0,0.0,6.18,1.09,42.64
+Emergency,Hospice / Home,Endocrine/Metabolic (incl. Diabetes),13,0,0.0,4.69,0.54,48.62
+Emergency,Hospice / Home,Genitourinary System,11,1,9.09,7.55,0.91,53.36
+Emergency,Hospice / Home,Infectious & Parasitic,6,0,0.0,5.33,0.0,70.0
+Emergency,Hospice / Home,Injury & Poisoning,7,0,0.0,3.57,1.86,36.71
+Emergency,Hospice / Home,Musculoskeletal,2,0,0.0,7.0,0.5,47.5
+Emergency,Hospice / Home,Neoplasms,36,0,0.0,6.47,1.39,50.5
+Emergency,Hospice / Home,Nervous System & Sense Organs,3,0,0.0,4.67,0.33,53.67
+Emergency,Hospice / Home,Respiratory System,26,0,0.0,6.35,0.73,54.5
+Emergency,Hospice / Home,Symptoms & Ill-defined,4,0,0.0,6.25,0.75,37.0
+Emergency,Hospice / Medical Facility,Circulatory System,35,3,8.57,4.46,0.51,52.6
+Emergency,Hospice / Medical Facility,Digestive System,7,2,28.57,6.86,2.57,57.86
+Emergency,Hospice / Medical Facility,Endocrine/Metabolic (incl. Diabetes),8,1,12.5,7.25,0.38,56.62
+Emergency,Hospice / Medical Facility,Genitourinary System,11,0,0.0,5.09,0.55,49.82
+Emergency,Hospice / Medical Facility,Infectious & Parasitic,7,0,0.0,4.14,0.43,58.86
+Emergency,Hospice / Medical Facility,Injury & Poisoning,1,0,0.0,1.0,0.0,64.0
+Emergency,Hospice / Medical Facility,Musculoskeletal,1,0,0.0,3.0,3.0,76.0
+Emergency,Hospice / Medical Facility,Neoplasms,32,0,0.0,5.81,1.28,49.16
+Emergency,Hospice / Medical Facility,Nervous System & Sense Organs,2,0,0.0,3.0,0.5,60.0
+Emergency,Hospice / Medical Facility,Respiratory System,27,0,0.0,5.89,1.0,57.63
+Emergency,Hospice / Medical Facility,Symptoms & Ill-defined,5,1,20.0,3.6,0.6,61.8
+Emergency,ICF (Intermediate Care),Blood & Immune,2,0,0.0,5.5,1.0,34.0
+Emergency,ICF (Intermediate Care),Circulatory System,68,6,8.82,5.12,0.93,46.53
+Emergency,ICF (Intermediate Care),Digestive System,34,2,5.88,5.35,1.29,41.74
+Emergency,ICF (Intermediate Care),Endocrine/Metabolic (incl. Diabetes),57,8,14.04,4.93,0.44,47.39
+Emergency,ICF (Intermediate Care),Genitourinary System,25,5,20.0,4.84,0.4,51.48
+Emergency,ICF (Intermediate Care),Infectious & Parasitic,23,5,21.74,5.43,0.48,48.65
+Emergency,ICF (Intermediate Care),Injury & Poisoning,29,4,13.79,5.69,0.72,39.28
+Emergency,ICF (Intermediate Care),Mental Disorders,9,0,0.0,9.22,0.78,50.33
+Emergency,ICF (Intermediate Care),Musculoskeletal,3,0,0.0,8.0,0.67,62.33
+Emergency,ICF (Intermediate Care),Neoplasms,6,1,16.67,5.17,0.83,41.67
+Emergency,ICF (Intermediate Care),Nervous System & Sense Organs,5,1,20.0,4.8,0.0,33.6
+Emergency,ICF (Intermediate Care),Respiratory System,49,2,4.08,4.94,0.47,48.08
+Emergency,ICF (Intermediate Care),Skin & Subcutaneous,5,1,20.0,4.4,0.6,26.8
+Emergency,ICF (Intermediate Care),Symptoms & Ill-defined,24,1,4.17,3.79,0.62,43.25
+Emergency,Long-term Hospital Transfer,Blood & Immune,1,0,0.0,11.0,4.0,50.0
+Emergency,Long-term Hospital Transfer,Circulatory System,43,1,2.33,7.12,1.3,50.09
+Emergency,Long-term Hospital Transfer,Digestive System,12,0,0.0,7.83,2.75,51.67
+Emergency,Long-term Hospital Transfer,Endocrine/Metabolic (incl. Diabetes),14,0,0.0,6.5,0.86,37.64
+Emergency,Long-term Hospital Transfer,Genitourinary System,10,0,0.0,7.4,2.0,45.8
+Emergency,Long-term Hospital Transfer,Infectious & Parasitic,9,0,0.0,7.11,1.22,60.56
+Emergency,Long-term Hospital Transfer,Injury & Poisoning,10,1,10.0,8.0,1.5,40.7
+Emergency,Long-term Hospital Transfer,Mental Disorders,3,1,33.33,6.67,0.0,28.0
+Emergency,Long-term Hospital Transfer,Musculoskeletal,5,0,0.0,7.0,2.0,45.0
+Emergency,Long-term Hospital Transfer,Neoplasms,1,0,0.0,4.0,3.0,45.0
+Emergency,Long-term Hospital Transfer,Nervous System & Sense Organs,1,0,0.0,7.0,1.0,1.0
+Emergency,Long-term Hospital Transfer,Respiratory System,38,2,5.26,7.92,1.42,52.39
+Emergency,Long-term Hospital Transfer,Skin & Subcutaneous,9,0,0.0,7.33,1.11,39.44
+Emergency,Long-term Hospital Transfer,Symptoms & Ill-defined,6,0,0.0,4.5,0.5,49.83
+Emergency,Medicaid Facility,Circulatory System,4,0,0.0,2.75,0.0,47.25
+Emergency,Medicaid Facility,Digestive System,1,0,0.0,5.0,1.0,39.0
+Emergency,Medicaid Facility,Endocrine/Metabolic (incl. Diabetes),2,0,0.0,4.5,0.0,31.5
+Emergency,Medicaid Facility,Genitourinary System,2,0,0.0,3.0,0.0,41.0
+Emergency,Medicaid Facility,Infectious & Parasitic,2,0,0.0,4.0,0.0,56.0
+Emergency,Medicaid Facility,Injury & Poisoning,4,1,25.0,4.5,1.25,41.75
+Emergency,Medicaid Facility,Nervous System & Sense Organs,1,0,0.0,5.0,3.0,68.0
+Emergency,Medicaid Facility,Respiratory System,1,0,0.0,7.0,0.0,55.0
+Emergency,Medicaid Facility,Skin & Subcutaneous,1,0,0.0,5.0,1.0,66.0
+Emergency,Medicaid Facility,Symptoms & Ill-defined,1,0,0.0,2.0,0.0,22.0
+Emergency,Not Mapped,Circulatory System,2,0,0.0,1.5,4.0,66.5
+Emergency,Not Mapped,Genitourinary System,2,0,0.0,7.0,3.5,72.0
+Emergency,Not Mapped,Injury & Poisoning,3,1,33.33,2.33,2.33,65.0
+Emergency,Not Mapped,Neoplasms,1,1,100.0,4.0,3.0,75.0
+Emergency,Not Mapped,Respiratory System,1,0,0.0,4.0,0.0,67.0
+Emergency,Other Institution Transfer,Blood & Immune,6,1,16.67,8.5,2.5,56.83
+Emergency,Other Institution Transfer,Circulatory System,156,40,25.64,5.88,0.85,52.34
+Emergency,Other Institution Transfer,Digestive System,21,3,14.29,6.14,2.1,53.48
+Emergency,Other Institution Transfer,Endocrine/Metabolic (incl. Diabetes),51,11,21.57,5.73,0.84,54.8
+Emergency,Other Institution Transfer,Genitourinary System,26,2,7.69,4.92,0.27,60.12
+Emergency,Other Institution Transfer,Infectious & Parasitic,8,1,12.5,6.88,1.12,62.12
+Emergency,Other Institution Transfer,Injury & Poisoning,67,15,22.39,5.6,1.13,49.9
+Emergency,Other Institution Transfer,Mental Disorders,21,4,19.05,4.81,0.24,45.0
+Emergency,Other Institution Transfer,Musculoskeletal,13,4,30.77,7.62,1.54,53.15
+Emergency,Other Institution Transfer,Neoplasms,3,1,33.33,8.33,1.0,43.0
+Emergency,Other Institution Transfer,Nervous System & Sense Organs,6,0,0.0,9.67,1.0,39.83
+Emergency,Other Institution Transfer,Respiratory System,27,6,22.22,5.81,0.93,51.44
+Emergency,Other Institution Transfer,Skin & Subcutaneous,14,2,14.29,6.36,0.86,57.14
+Emergency,Other Institution Transfer,Symptoms & Ill-defined,27,6,22.22,5.33,0.48,51.15
+Emergency,Psych Hospital Transfer,Endocrine/Metabolic (incl. Diabetes),1,0,0.0,3.0,1.0,36.0
+Emergency,Psych Hospital Transfer,Infectious & Parasitic,1,0,0.0,14.0,0.0,71.0
+Emergency,Psych Hospital Transfer,Respiratory System,1,0,0.0,4.0,0.0,42.0
+Emergency,Rehab Facility Transfer,Blood & Immune,3,1,33.33,6.67,1.67,58.33
+Emergency,Rehab Facility Transfer,Circulatory System,316,101,31.96,5.62,0.8,46.2
+Emergency,Rehab Facility Transfer,Digestive System,11,3,27.27,6.64,2.36,54.18
+Emergency,Rehab Facility Transfer,Endocrine/Metabolic (incl. Diabetes),35,9,25.71,6.97,1.37,54.14
+Emergency,Rehab Facility Transfer,Genitourinary System,13,1,7.69,5.23,0.54,42.15
+Emergency,Rehab Facility Transfer,Infectious & Parasitic,7,1,14.29,8.71,1.86,54.29
+Emergency,Rehab Facility Transfer,Injury & Poisoning,236,69,29.24,5.35,1.54,43.09
+Emergency,Rehab Facility Transfer,Mental Disorders,4,1,25.0,6.5,0.75,57.5
+Emergency,Rehab Facility Transfer,Musculoskeletal,20,7,35.0,6.65,1.3,49.9
+Emergency,Rehab Facility Transfer,Neoplasms,10,1,10.0,8.7,1.9,51.3
+Emergency,Rehab Facility Transfer,Nervous System & Sense Organs,8,4,50.0,5.62,0.25,48.75
+Emergency,Rehab Facility Transfer,Respiratory System,22,2,9.09,6.82,0.45,53.14
+Emergency,Rehab Facility Transfer,Skin & Subcutaneous,3,2,66.67,7.33,0.33,56.67
+Emergency,Rehab Facility Transfer,Symptoms & Ill-defined,15,0,0.0,4.07,0.2,46.0
+Emergency,SNF (Skilled Nursing),Blood & Immune,45,6,13.33,4.96,1.36,50.4
+Emergency,SNF (Skilled Nursing),Circulatory System,1194,178,14.91,6.18,0.94,52.18
+Emergency,SNF (Skilled Nursing),Congenital Anomalies,1,0,0.0,9.0,1.0,47.0
+Emergency,SNF (Skilled Nursing),Digestive System,339,38,11.21,5.98,1.53,49.09
+Emergency,SNF (Skilled Nursing),Endocrine/Metabolic (incl. Diabetes),457,75,16.41,6.07,0.86,52.04
+Emergency,SNF (Skilled Nursing),Genitourinary System,423,39,9.22,5.45,0.52,53.29
+Emergency,SNF (Skilled Nursing),Infectious & Parasitic,268,34,12.69,6.84,0.8,54.91
+Emergency,SNF (Skilled Nursing),Injury & Poisoning,764,97,12.7,5.31,1.37,45.12
+Emergency,SNF (Skilled Nursing),Mental Disorders,53,7,13.21,5.81,0.19,47.77
+Emergency,SNF (Skilled Nursing),Musculoskeletal,136,22,16.18,6.09,1.17,49.0
+Emergency,SNF (Skilled Nursing),Neoplasms,80,7,8.75,7.61,2.04,54.48
+Emergency,SNF (Skilled Nursing),Nervous System & Sense Organs,106,11,10.38,6.16,0.57,52.96
+Emergency,SNF (Skilled Nursing),Respiratory System,665,94,14.14,6.44,0.72,51.49
+Emergency,SNF (Skilled Nursing),Skin & Subcutaneous,107,12,11.21,6.45,0.77,45.86
+Emergency,SNF (Skilled Nursing),Supplementary (V-codes),9,2,22.22,3.33,1.0,43.67
+Emergency,SNF (Skilled Nursing),Symptoms & Ill-defined,213,29,13.62,4.77,0.48,48.54
+Emergency,SNF (Skilled Nursing),Unknown,1,1,100.0,4.0,0.0,38.0
+Emergency,Short-term Hospital Transfer,Blood & Immune,4,0,0.0,3.0,2.0,56.0
+Emergency,Short-term Hospital Transfer,Circulatory System,506,38,7.51,2.92,1.5,45.35
+Emergency,Short-term Hospital Transfer,Digestive System,52,7,13.46,4.02,1.04,50.54
+Emergency,Short-term Hospital Transfer,Endocrine/Metabolic (incl. Diabetes),39,0,0.0,3.82,0.72,46.9
+Emergency,Short-term Hospital Transfer,Genitourinary System,27,5,18.52,4.59,0.81,56.85
+Emergency,Short-term Hospital Transfer,Infectious & Parasitic,19,0,0.0,4.16,1.74,62.95
+Emergency,Short-term Hospital Transfer,Injury & Poisoning,50,9,18.0,3.08,0.66,48.7
+Emergency,Short-term Hospital Transfer,Mental Disorders,26,17,65.38,4.81,0.54,51.27
+Emergency,Short-term Hospital Transfer,Musculoskeletal,10,0,0.0,6.9,1.5,53.7
+Emergency,Short-term Hospital Transfer,Neoplasms,32,6,18.75,5.41,1.69,53.72
+Emergency,Short-term Hospital Transfer,Nervous System & Sense Organs,12,1,8.33,3.25,0.92,51.92
+Emergency,Short-term Hospital Transfer,Respiratory System,52,6,11.54,4.4,1.33,52.56
+Emergency,Short-term Hospital Transfer,Skin & Subcutaneous,6,0,0.0,6.83,1.5,42.5
+Emergency,Short-term Hospital Transfer,Supplementary (V-codes),1,1,100.0,5.0,3.0,55.0
+Emergency,Short-term Hospital Transfer,Symptoms & Ill-defined,36,1,2.78,2.39,0.5,39.89
+Emergency,Short-term Hospital Transfer,Unknown,1,1,100.0,4.0,0.0,31.0
+Emergency,Still Patient,Circulatory System,1,0,0.0,1.0,1.0,26.0
+Emergency,Swing Bed,Circulatory System,2,1,50.0,6.5,0.0,58.5
+Emergency,Swing Bed,Digestive System,1,1,100.0,4.0,0.0,41.0
+Emergency,Swing Bed,Endocrine/Metabolic (incl. Diabetes),3,1,33.33,8.0,1.33,37.33
+Emergency,Swing Bed,Genitourinary System,5,2,40.0,5.2,0.0,43.0
+Emergency,Swing Bed,Injury & Poisoning,2,1,50.0,6.5,1.5,54.5
+Emergency,Swing Bed,Musculoskeletal,2,2,100.0,8.0,1.5,58.5
+Emergency,Swing Bed,Respiratory System,5,4,80.0,8.0,1.8,37.0
+Emergency,Swing Bed,Skin & Subcutaneous,1,1,100.0,8.0,1.0,50.0
+Emergency,Swing Bed,Symptoms & Ill-defined,1,1,100.0,7.0,1.0,72.0
+Emergency,Undetermined,Endocrine/Metabolic (incl. Diabetes),1,0,0.0,5.0,0.0,25.0
+Newborn,Discharged to Home,Circulatory System,2,0,0.0,2.0,4.0,51.0
+Newborn,Discharged to Home,Endocrine/Metabolic (incl. Diabetes),1,0,0.0,3.0,0.0,66.0
+Newborn,Discharged to Home,Injury & Poisoning,1,0,0.0,6.0,4.0,39.0
+Newborn,Discharged to Home,Symptoms & Ill-defined,1,0,0.0,2.0,0.0,27.0
+Newborn,Home Health Service,Digestive System,1,0,0.0,5.0,1.0,73.0
+Newborn,Home Health Service,Endocrine/Metabolic (incl. Diabetes),1,1,100.0,2.0,0.0,39.0
+Newborn,Home Health Service,Musculoskeletal,1,0,0.0,4.0,1.0,37.0
+Newborn,Home Health Service,Respiratory System,1,0,0.0,3.0,0.0,51.0
+Not Available,AMA (Against Medical Advice),Circulatory System,1,0,0.0,1.0,0.0,46.0
+Not Available,AMA (Against Medical Advice),Digestive System,5,0,0.0,2.4,0.2,38.8
+Not Available,AMA (Against Medical Advice),Endocrine/Metabolic (incl. Diabetes),4,0,0.0,2.0,0.25,25.25
+Not Available,AMA (Against Medical Advice),Infectious & Parasitic,1,0,0.0,6.0,0.0,51.0
+Not Available,AMA (Against Medical Advice),Injury & Poisoning,1,0,0.0,2.0,1.0,16.0
+Not Available,AMA (Against Medical Advice),Neoplasms,1,0,0.0,2.0,1.0,40.0
+Not Available,AMA (Against Medical Advice),Respiratory System,2,0,0.0,1.5,0.0,21.5
+Not Available,AMA (Against Medical Advice),Symptoms & Ill-defined,2,0,0.0,1.0,0.0,34.0
+Not Available,Admitted as Inpatient,Circulatory System,1,0,0.0,4.0,4.0,65.0
+Not Available,Critical Access Hospital,Blood & Immune,1,0,0.0,1.0,1.0,69.0
+Not Available,Critical Access Hospital,Circulatory System,3,1,33.33,3.33,0.0,39.0
+Not Available,Critical Access Hospital,Digestive System,3,0,0.0,2.33,0.0,42.0
+Not Available,Critical Access Hospital,Endocrine/Metabolic (incl. Diabetes),2,1,50.0,4.5,0.5,78.0
+Not Available,Critical Access Hospital,Genitourinary System,1,0,0.0,3.0,1.0,70.0
+Not Available,Critical Access Hospital,Infectious & Parasitic,2,0,0.0,3.0,0.5,67.0
+Not Available,Critical Access Hospital,Injury & Poisoning,1,1,100.0,2.0,0.0,42.0
+Not Available,Critical Access Hospital,Mental Disorders,3,1,33.33,4.67,0.0,33.0
+Not Available,Critical Access Hospital,Nervous System & Sense Organs,1,0,0.0,5.0,0.0,39.0
+Not Available,Critical Access Hospital,Respiratory System,6,0,0.0,3.67,0.17,50.5
+Not Available,Critical Access Hospital,Symptoms & Ill-defined,6,1,16.67,2.17,0.0,44.0
+Not Available,Discharged to Home,Blood & Immune,13,2,15.38,2.54,1.23,34.15
+Not Available,Discharged to Home,Circulatory System,266,27,10.15,2.53,0.9,25.26
+Not Available,Discharged to Home,Congenital Anomalies,1,0,0.0,9.0,1.0,22.0
+Not Available,Discharged to Home,Digestive System,236,16,6.78,3.67,1.16,29.47
+Not Available,Discharged to Home,Endocrine/Metabolic (incl. Diabetes),273,15,5.49,2.92,1.7,17.41
+Not Available,Discharged to Home,Genitourinary System,58,5,8.62,2.29,1.22,23.67
+Not Available,Discharged to Home,Infectious & Parasitic,19,2,10.53,3.16,0.21,35.95
+Not Available,Discharged to Home,Injury & Poisoning,44,2,4.55,2.25,1.14,20.95
+Not Available,Discharged to Home,Mental Disorders,59,5,8.47,5.03,0.02,17.69
+Not Available,Discharged to Home,Musculoskeletal,33,1,3.03,2.55,1.7,14.12
+Not Available,Discharged to Home,Neoplasms,65,4,6.15,3.68,1.82,18.55
+Not Available,Discharged to Home,Nervous System & Sense Organs,11,0,0.0,2.18,0.64,36.45
+Not Available,Discharged to Home,Pregnancy & Childbirth,9,0,0.0,3.67,1.56,25.56
+Not Available,Discharged to Home,Respiratory System,94,5,5.32,3.32,0.38,31.74
+Not Available,Discharged to Home,Skin & Subcutaneous,31,3,9.68,3.9,0.45,28.16
+Not Available,Discharged to Home,Supplementary (V-codes),3,0,0.0,2.33,2.67,10.33
+Not Available,Discharged to Home,Symptoms & Ill-defined,159,7,4.4,1.43,0.26,25.31
+Not Available,Expired,Circulatory System,12,0,0.0,4.5,1.42,26.25
+Not Available,Expired,Digestive System,4,0,0.0,1.0,2.5,21.5
+Not Available,Expired,Endocrine/Metabolic (incl. Diabetes),3,0,0.0,6.0,2.0,36.67
+Not Available,Expired,Genitourinary System,2,0,0.0,1.5,1.0,42.5
+Not Available,Expired,Infectious & Parasitic,9,0,0.0,5.44,0.56,23.33
+Not Available,Expired,Mental Disorders,1,0,0.0,3.0,1.0,12.0
+Not Available,Expired,Musculoskeletal,1,0,0.0,2.0,1.0,25.0
+Not Available,Expired,Neoplasms,3,0,0.0,3.67,0.33,26.0
+Not Available,Expired,Respiratory System,16,0,0.0,5.44,0.94,27.94
+Not Available,Expired,Symptoms & Ill-defined,1,0,0.0,1.0,1.0,18.0
+Not Available,Home Health Service,Blood & Immune,11,1,9.09,4.91,1.0,37.82
+Not Available,Home Health Service,Circulatory System,147,24,16.33,3.74,0.66,29.63
+Not Available,Home Health Service,Digestive System,57,5,8.77,5.3,1.82,27.44
+Not Available,Home Health Service,Endocrine/Metabolic (incl. Diabetes),67,8,11.94,4.25,1.15,24.1
+Not Available,Home Health Service,Genitourinary System,33,6,18.18,3.33,0.64,29.36
+Not Available,Home Health Service,Infectious & Parasitic,22,4,18.18,5.23,0.55,41.05
+Not Available,Home Health Service,Injury & Poisoning,41,1,2.44,3.56,1.27,25.41
+Not Available,Home Health Service,Mental Disorders,9,1,11.11,8.67,0.11,13.78
+Not Available,Home Health Service,Musculoskeletal,38,2,5.26,3.61,1.61,22.08
+Not Available,Home Health Service,Neoplasms,32,5,15.62,4.31,1.75,19.81
+Not Available,Home Health Service,Nervous System & Sense Organs,4,1,25.0,3.5,0.25,40.75
+Not Available,Home Health Service,Pregnancy & Childbirth,4,0,0.0,3.25,3.25,13.5
+Not Available,Home Health Service,Respiratory System,81,11,13.58,4.46,0.48,34.33
+Not Available,Home Health Service,Skin & Subcutaneous,18,1,5.56,5.39,0.39,30.56
+Not Available,Home Health Service,Supplementary (V-codes),3,0,0.0,4.67,0.67,34.33
+Not Available,Home Health Service,Symptoms & Ill-defined,27,0,0.0,2.59,0.44,26.0
+Not Available,Home IV Service,Digestive System,1,0,0.0,5.0,2.0,22.0
+Not Available,Home IV Service,Infectious & Parasitic,2,0,0.0,5.0,1.0,25.0
+Not Available,Home IV Service,Respiratory System,1,0,0.0,6.0,1.0,25.0
+Not Available,Hospice / Home,Circulatory System,1,0,0.0,1.0,2.0,18.0
+Not Available,Hospice / Home,Digestive System,1,0,0.0,3.0,0.0,22.0
+Not Available,Hospice / Medical Facility,Circulatory System,4,1,25.0,4.0,1.0,38.0
+Not Available,Hospice / Medical Facility,Digestive System,2,0,0.0,2.5,0.0,37.0
+Not Available,Hospice / Medical Facility,Endocrine/Metabolic (incl. Diabetes),3,0,0.0,7.33,1.0,21.33
+Not Available,Hospice / Medical Facility,Genitourinary System,4,0,0.0,5.75,0.25,49.75
+Not Available,Hospice / Medical Facility,Infectious & Parasitic,1,0,0.0,2.0,0.0,24.0
+Not Available,Hospice / Medical Facility,Musculoskeletal,1,0,0.0,3.0,0.0,26.0
+Not Available,Hospice / Medical Facility,Neoplasms,8,0,0.0,5.62,0.88,25.25
+Not Available,Hospice / Medical Facility,Respiratory System,11,0,0.0,6.64,0.55,41.73
+Not Available,ICF (Intermediate Care),Circulatory System,1,0,0.0,5.0,0.0,27.0
+Not Available,ICF (Intermediate Care),Endocrine/Metabolic (incl. Diabetes),2,0,0.0,8.5,0.5,24.5
+Not Available,ICF (Intermediate Care),Mental Disorders,4,0,0.0,8.5,0.0,21.25
+Not Available,Long-term Hospital Transfer,Circulatory System,3,0,0.0,5.67,0.33,51.67
+Not Available,Long-term Hospital Transfer,Genitourinary System,1,0,0.0,8.0,1.0,58.0
+Not Available,Long-term Hospital Transfer,Injury & Poisoning,1,0,0.0,5.0,1.0,33.0
+Not Available,Long-term Hospital Transfer,Mental Disorders,1,0,0.0,2.0,0.0,29.0
+Not Available,Long-term Hospital Transfer,Respiratory System,6,0,0.0,5.83,0.67,55.67
+Not Available,Other Institution Transfer,Circulatory System,5,0,0.0,5.8,1.6,21.4
+Not Available,Other Institution Transfer,Digestive System,5,1,20.0,5.2,1.4,25.6
+Not Available,Other Institution Transfer,Endocrine/Metabolic (incl. Diabetes),3,0,0.0,6.0,1.67,21.33
+Not Available,Other Institution Transfer,Infectious & Parasitic,1,1,100.0,6.0,0.0,24.0
+Not Available,Other Institution Transfer,Injury & Poisoning,3,3,100.0,1.0,0.0,15.67
+Not Available,Other Institution Transfer,Mental Disorders,8,2,25.0,4.62,0.0,25.25
+Not Available,Other Institution Transfer,Neoplasms,1,0,0.0,3.0,2.0,8.0
+Not Available,Other Institution Transfer,Nervous System & Sense Organs,1,0,0.0,4.0,1.0,20.0
+Not Available,Other Institution Transfer,Respiratory System,12,1,8.33,5.33,0.42,20.75
+Not Available,Other Institution Transfer,Skin & Subcutaneous,1,0,0.0,11.0,1.0,28.0
+Not Available,Other Institution Transfer,Symptoms & Ill-defined,3,1,33.33,2.67,0.33,18.0
+Not Available,Outpatient Services,Mental Disorders,3,0,0.0,3.67,0.0,10.67
+Not Available,Rehab Facility Transfer,Circulatory System,4,0,0.0,5.75,0.5,19.5
+Not Available,Rehab Facility Transfer,Endocrine/Metabolic (incl. Diabetes),3,0,0.0,10.67,3.67,21.0
+Not Available,Rehab Facility Transfer,Infectious & Parasitic,1,0,0.0,10.0,0.0,18.0
+Not Available,Rehab Facility Transfer,Respiratory System,5,0,0.0,6.4,0.4,17.8
+Not Available,SNF (Skilled Nursing),Blood & Immune,8,3,37.5,3.62,1.0,30.75
+Not Available,SNF (Skilled Nursing),Circulatory System,164,18,10.98,5.23,0.52,30.1
+Not Available,SNF (Skilled Nursing),Digestive System,58,2,3.45,5.07,1.4,31.09
+Not Available,SNF (Skilled Nursing),Endocrine/Metabolic (incl. Diabetes),76,3,3.95,5.3,0.67,29.24
+Not Available,SNF (Skilled Nursing),Genitourinary System,52,8,15.38,4.48,0.42,40.1
+Not Available,SNF (Skilled Nursing),Infectious & Parasitic,39,3,7.69,5.74,0.9,33.9
+Not Available,SNF (Skilled Nursing),Injury & Poisoning,98,8,8.16,4.57,1.49,26.36
+Not Available,SNF (Skilled Nursing),Mental Disorders,18,2,11.11,5.94,0.22,27.83
+Not Available,SNF (Skilled Nursing),Musculoskeletal,139,9,6.47,3.8,1.63,28.52
+Not Available,SNF (Skilled Nursing),Neoplasms,20,1,5.0,6.9,1.9,25.95
+Not Available,SNF (Skilled Nursing),Nervous System & Sense Organs,10,1,10.0,5.5,0.2,32.0
+Not Available,SNF (Skilled Nursing),Respiratory System,155,14,9.03,5.84,0.52,33.47
+Not Available,SNF (Skilled Nursing),Skin & Subcutaneous,25,6,24.0,6.08,0.68,35.36
+Not Available,SNF (Skilled Nursing),Supplementary (V-codes),5,0,0.0,4.6,1.2,25.0
+Not Available,SNF (Skilled Nursing),Symptoms & Ill-defined,16,2,12.5,4.0,0.31,31.31
+Not Available,Short-term Hospital Transfer,Circulatory System,84,3,3.57,1.96,0.85,25.54
+Not Available,Short-term Hospital Transfer,Digestive System,1,0,0.0,1.0,0.0,15.0
+Not Available,Short-term Hospital Transfer,Endocrine/Metabolic (incl. Diabetes),3,0,0.0,4.33,0.67,27.67
+Not Available,Short-term Hospital Transfer,Genitourinary System,1,0,0.0,3.0,1.0,18.0
+Not Available,Short-term Hospital Transfer,Injury & Poisoning,4,0,0.0,2.5,2.0,34.5
+Not Available,Short-term Hospital Transfer,Mental Disorders,2,2,100.0,8.5,0.5,22.0
+Not Available,Short-term Hospital Transfer,Musculoskeletal,1,0,0.0,7.0,2.0,18.0
+Not Available,Short-term Hospital Transfer,Respiratory System,2,0,0.0,2.5,4.5,41.5
+Not Available,Short-term Hospital Transfer,Skin & Subcutaneous,1,0,0.0,3.0,0.0,37.0
+Not Available,Short-term Hospital Transfer,Symptoms & Ill-defined,1,1,100.0,1.0,0.0,18.0
+Not Available,Undetermined,Circulatory System,1,0,0.0,4.0,0.0,19.0
+Not Available,Undetermined,Endocrine/Metabolic (incl. Diabetes),1,0,0.0,4.0,0.0,25.0
+Not Available,Undetermined,Mental Disorders,4,0,0.0,6.0,0.0,17.25
+Not Mapped,AMA (Against Medical Advice),Circulatory System,6,2,33.33,3.0,1.67,52.83
+Not Mapped,AMA (Against Medical Advice),Digestive System,2,0,0.0,3.0,0.5,70.0
+Not Mapped,AMA (Against Medical Advice),Endocrine/Metabolic (incl. Diabetes),3,0,0.0,4.0,0.0,56.67
+Not Mapped,AMA (Against Medical Advice),Genitourinary System,2,0,0.0,3.5,0.5,57.0
+Not Mapped,AMA (Against Medical Advice),Injury & Poisoning,1,0,0.0,1.0,1.0,64.0
+Not Mapped,AMA (Against Medical Advice),Nervous System & Sense Organs,1,0,0.0,4.0,3.0,100.0
+Not Mapped,AMA (Against Medical Advice),Pregnancy & Childbirth,1,0,0.0,3.0,0.0,44.0
+Not Mapped,AMA (Against Medical Advice),Respiratory System,3,0,0.0,2.33,0.67,51.67
+Not Mapped,AMA (Against Medical Advice),Skin & Subcutaneous,4,0,0.0,1.25,0.5,52.75
+Not Mapped,AMA (Against Medical Advice),Symptoms & Ill-defined,5,0,0.0,1.0,0.2,49.0
+Not Mapped,Admitted as Inpatient,Musculoskeletal,1,1,100.0,4.0,5.0,21.0
+Not Mapped,Admitted as Inpatient,Neoplasms,1,0,0.0,5.0,1.0,64.0
+Not Mapped,Discharged to Home,Blood & Immune,16,2,12.5,4.25,1.88,58.94
+Not Mapped,Discharged to Home,Circulatory System,910,72,7.91,3.62,2.57,53.52
+Not Mapped,Discharged to Home,Congenital Anomalies,5,0,0.0,3.6,2.8,55.2
+Not Mapped,Discharged to Home,Digestive System,290,26,8.97,4.18,1.89,57.51
+Not Mapped,Discharged to Home,Endocrine/Metabolic (incl. Diabetes),282,38,13.48,3.57,0.97,57.03
+Not Mapped,Discharged to Home,Genitourinary System,137,10,7.3,3.74,1.72,57.05
+Not Mapped,Discharged to Home,Infectious & Parasitic,36,1,2.78,5.64,1.19,67.31
+Not Mapped,Discharged to Home,Injury & Poisoning,140,10,7.14,3.68,1.68,46.33
+Not Mapped,Discharged to Home,Mental Disorders,54,5,9.26,6.5,1.11,52.81
+Not Mapped,Discharged to Home,Musculoskeletal,190,6,3.16,2.91,1.65,36.03
+Not Mapped,Discharged to Home,Neoplasms,81,7,8.64,3.77,2.15,42.49
+Not Mapped,Discharged to Home,Nervous System & Sense Organs,23,0,0.0,3.74,1.22,48.17
+Not Mapped,Discharged to Home,Pregnancy & Childbirth,9,0,0.0,4.22,2.0,40.44
+Not Mapped,Discharged to Home,Respiratory System,228,14,6.14,4.57,1.11,59.61
+Not Mapped,Discharged to Home,Skin & Subcutaneous,52,3,5.77,5.25,0.9,53.83
+Not Mapped,Discharged to Home,Supplementary (V-codes),63,11,17.46,6.46,1.83,35.16
+Not Mapped,Discharged to Home,Symptoms & Ill-defined,347,19,5.48,2.69,1.23,54.53
+Not Mapped,Expired,Circulatory System,26,0,0.0,4.31,2.81,66.46
+Not Mapped,Expired,Digestive System,1,0,0.0,1.0,0.0,48.0
+Not Mapped,Expired,Endocrine/Metabolic (incl. Diabetes),3,0,0.0,6.0,2.0,83.0
+Not Mapped,Expired,Genitourinary System,1,0,0.0,6.0,1.0,81.0
+Not Mapped,Expired,Infectious & Parasitic,1,0,0.0,5.0,1.0,64.0
+Not Mapped,Expired,Injury & Poisoning,3,0,0.0,3.33,2.0,60.0
+Not Mapped,Expired,Mental Disorders,1,0,0.0,2.0,0.0,38.0
+Not Mapped,Expired,Musculoskeletal,1,0,0.0,9.0,5.0,56.0
+Not Mapped,Expired,Neoplasms,6,0,0.0,5.33,1.83,61.17
+Not Mapped,Expired,Respiratory System,13,0,0.0,5.38,2.31,72.0
+Not Mapped,Expired,Symptoms & Ill-defined,1,0,0.0,3.0,0.0,69.0
+Not Mapped,Expired (medical facility),Digestive System,1,0,0.0,8.0,1.0,53.0
+Not Mapped,Home Health Service,Blood & Immune,4,1,25.0,7.75,1.0,68.0
+Not Mapped,Home Health Service,Circulatory System,155,20,12.9,5.95,2.55,62.43
+Not Mapped,Home Health Service,Congenital Anomalies,1,0,0.0,13.0,3.0,68.0
+Not Mapped,Home Health Service,Digestive System,26,2,7.69,6.38,2.77,65.27
+Not Mapped,Home Health Service,Endocrine/Metabolic (incl. Diabetes),63,9,14.29,6.13,1.49,56.9
+Not Mapped,Home Health Service,Genitourinary System,11,2,18.18,6.27,1.55,70.36
+Not Mapped,Home Health Service,Infectious & Parasitic,7,1,14.29,9.57,2.29,82.0
+Not Mapped,Home Health Service,Injury & Poisoning,36,3,8.33,5.75,1.83,51.92
+Not Mapped,Home Health Service,Mental Disorders,7,1,14.29,8.86,1.29,37.57
+Not Mapped,Home Health Service,Musculoskeletal,54,2,3.7,4.61,1.83,40.02
+Not Mapped,Home Health Service,Neoplasms,18,0,0.0,6.11,3.0,52.89
+Not Mapped,Home Health Service,Nervous System & Sense Organs,3,1,33.33,8.0,1.0,39.33
+Not Mapped,Home Health Service,Respiratory System,33,2,6.06,6.64,1.36,65.0
+Not Mapped,Home Health Service,Skin & Subcutaneous,16,1,6.25,5.81,1.56,46.56
+Not Mapped,Home Health Service,Supplementary (V-codes),49,3,6.12,7.98,1.45,37.8
+Not Mapped,Home Health Service,Symptoms & Ill-defined,20,3,15.0,5.2,1.5,64.65
+Not Mapped,Home IV Service,Circulatory System,3,0,0.0,4.0,2.67,67.33
+Not Mapped,Home IV Service,Endocrine/Metabolic (incl. Diabetes),1,0,0.0,9.0,6.0,61.0
+Not Mapped,Home IV Service,Infectious & Parasitic,1,0,0.0,5.0,1.0,81.0
+Not Mapped,Home IV Service,Injury & Poisoning,1,0,0.0,10.0,1.0,43.0
+Not Mapped,Home IV Service,Musculoskeletal,1,0,0.0,4.0,2.0,44.0
+Not Mapped,Home IV Service,Respiratory System,1,0,0.0,9.0,6.0,59.0
+Not Mapped,Home IV Service,Skin & Subcutaneous,1,1,100.0,13.0,6.0,63.0
+Not Mapped,Hospice / Home,Circulatory System,1,0,0.0,2.0,0.0,50.0
+Not Mapped,Hospice / Home,Infectious & Parasitic,1,0,0.0,8.0,1.0,96.0
+Not Mapped,Hospice / Home,Neoplasms,1,0,0.0,5.0,0.0,49.0
+Not Mapped,Hospice / Medical Facility,Circulatory System,6,2,33.33,7.67,1.83,73.83
+Not Mapped,Hospice / Medical Facility,Genitourinary System,3,0,0.0,7.67,0.0,59.0
+Not Mapped,Hospice / Medical Facility,Infectious & Parasitic,1,0,0.0,3.0,0.0,55.0
+Not Mapped,Hospice / Medical Facility,Symptoms & Ill-defined,1,0,0.0,13.0,4.0,75.0
+Not Mapped,ICF (Intermediate Care),Injury & Poisoning,2,2,100.0,5.0,1.5,29.5
+Not Mapped,Long-term Hospital Transfer,Circulatory System,3,0,0.0,2.67,4.0,60.0
+Not Mapped,Long-term Hospital Transfer,Endocrine/Metabolic (incl. Diabetes),2,0,0.0,4.5,1.0,50.0
+Not Mapped,Long-term Hospital Transfer,Genitourinary System,2,0,0.0,4.5,1.5,63.0
+Not Mapped,Long-term Hospital Transfer,Injury & Poisoning,1,0,0.0,9.0,6.0,73.0
+Not Mapped,Long-term Hospital Transfer,Musculoskeletal,1,0,0.0,4.0,1.0,39.0
+Not Mapped,Long-term Hospital Transfer,Nervous System & Sense Organs,1,0,0.0,10.0,2.0,59.0
+Not Mapped,Long-term Hospital Transfer,Respiratory System,3,0,0.0,8.0,3.33,63.33
+Not Mapped,Long-term Hospital Transfer,Skin & Subcutaneous,1,0,0.0,5.0,2.0,73.0
+Not Mapped,Long-term Hospital Transfer,Supplementary (V-codes),1,0,0.0,13.0,2.0,62.0
+Not Mapped,Long-term Hospital Transfer,Symptoms & Ill-defined,1,0,0.0,1.0,0.0,1.0
+Not Mapped,Neonate Discharge,Circulatory System,2,0,0.0,8.5,0.0,69.5
+Not Mapped,Neonate Discharge,Injury & Poisoning,1,0,0.0,5.0,2.0,77.0
+Not Mapped,Neonate Discharge,Musculoskeletal,2,0,0.0,3.5,1.5,42.5
+Not Mapped,Neonate Discharge,Supplementary (V-codes),1,0,0.0,8.0,2.0,23.0
+Not Mapped,Not Mapped,Blood & Immune,6,1,16.67,5.33,1.17,41.83
+Not Mapped,Not Mapped,Circulatory System,235,17,7.23,4.37,2.12,42.72
+Not Mapped,Not Mapped,Digestive System,61,4,6.56,5.31,1.82,45.44
+Not Mapped,Not Mapped,Endocrine/Metabolic (incl. Diabetes),127,5,3.94,3.76,0.79,44.73
+Not Mapped,Not Mapped,Genitourinary System,32,2,6.25,4.94,1.5,41.22
+Not Mapped,Not Mapped,Infectious & Parasitic,11,0,0.0,5.0,0.64,56.09
+Not Mapped,Not Mapped,Injury & Poisoning,50,5,10.0,4.22,1.42,37.3
+Not Mapped,Not Mapped,Mental Disorders,22,2,9.09,4.59,0.09,36.05
+Not Mapped,Not Mapped,Musculoskeletal,41,1,2.44,4.15,1.66,37.22
+Not Mapped,Not Mapped,Neoplasms,21,4,19.05,5.29,1.71,41.43
+Not Mapped,Not Mapped,Nervous System & Sense Organs,6,0,0.0,2.5,0.33,28.5
+Not Mapped,Not Mapped,Pregnancy & Childbirth,13,0,0.0,3.23,1.62,43.62
+Not Mapped,Not Mapped,Respiratory System,56,2,3.57,4.73,0.59,41.43
+Not Mapped,Not Mapped,Skin & Subcutaneous,22,1,4.55,4.64,0.86,35.23
+Not Mapped,Not Mapped,Supplementary (V-codes),5,1,20.0,4.2,1.6,49.0
+Not Mapped,Not Mapped,Symptoms & Ill-defined,53,0,0.0,2.94,0.74,36.08
+Not Mapped,Not Mapped,Unknown,1,0,0.0,4.0,1.0,48.0
+Not Mapped,Other Institution Transfer,Blood & Immune,1,1,100.0,2.0,0.0,48.0
+Not Mapped,Other Institution Transfer,Circulatory System,18,3,16.67,6.72,1.72,60.61
+Not Mapped,Other Institution Transfer,Digestive System,4,1,25.0,4.25,1.25,49.75
+Not Mapped,Other Institution Transfer,Endocrine/Metabolic (incl. Diabetes),3,0,0.0,8.67,1.67,74.67
+Not Mapped,Other Institution Transfer,Genitourinary System,5,0,0.0,5.2,0.2,67.4
+Not Mapped,Other Institution Transfer,Infectious & Parasitic,1,1,100.0,10.0,0.0,42.0
+Not Mapped,Other Institution Transfer,Injury & Poisoning,11,2,18.18,6.0,1.18,60.64
+Not Mapped,Other Institution Transfer,Mental Disorders,2,1,50.0,2.5,0.0,80.0
+Not Mapped,Other Institution Transfer,Musculoskeletal,9,3,33.33,5.56,1.89,45.11
+Not Mapped,Other Institution Transfer,Respiratory System,5,0,0.0,7.4,0.6,68.8
+Not Mapped,Other Institution Transfer,Skin & Subcutaneous,2,0,0.0,7.5,0.0,60.0
+Not Mapped,Other Institution Transfer,Supplementary (V-codes),1,0,0.0,1.0,3.0,32.0
+Not Mapped,Other Institution Transfer,Symptoms & Ill-defined,7,5,71.43,5.86,1.43,57.29
+Not Mapped,Rehab Facility Transfer,Circulatory System,6,3,50.0,8.67,1.33,55.0
+Not Mapped,Rehab Facility Transfer,Infectious & Parasitic,2,1,50.0,11.5,3.0,68.5
+Not Mapped,Rehab Facility Transfer,Injury & Poisoning,9,5,55.56,5.11,1.78,49.11
+Not Mapped,Rehab Facility Transfer,Musculoskeletal,6,2,33.33,6.17,1.67,54.5
+Not Mapped,Rehab Facility Transfer,Nervous System & Sense Organs,1,0,0.0,4.0,0.0,58.0
+Not Mapped,Rehab Facility Transfer,Supplementary (V-codes),1,0,0.0,8.0,2.0,64.0
+Not Mapped,Rehab Facility Transfer,Symptoms & Ill-defined,1,1,100.0,6.0,4.0,64.0
+Not Mapped,SNF (Skilled Nursing),Blood & Immune,5,0,0.0,5.4,1.6,65.4
+Not Mapped,SNF (Skilled Nursing),Circulatory System,92,21,22.83,6.76,1.22,60.34
+Not Mapped,SNF (Skilled Nursing),Digestive System,23,6,26.09,6.78,1.3,61.52
+Not Mapped,SNF (Skilled Nursing),Endocrine/Metabolic (incl. Diabetes),38,8,21.05,7.5,1.29,60.37
+Not Mapped,SNF (Skilled Nursing),Genitourinary System,15,2,13.33,5.27,1.13,64.53
+Not Mapped,SNF (Skilled Nursing),Infectious & Parasitic,19,4,21.05,7.0,1.0,69.89
+Not Mapped,SNF (Skilled Nursing),Injury & Poisoning,52,8,15.38,6.25,1.83,57.71
+Not Mapped,SNF (Skilled Nursing),Mental Disorders,7,1,14.29,7.14,0.86,56.29
+Not Mapped,SNF (Skilled Nursing),Musculoskeletal,35,15,42.86,5.34,1.26,42.94
+Not Mapped,SNF (Skilled Nursing),Neoplasms,10,2,20.0,7.5,2.1,60.5
+Not Mapped,SNF (Skilled Nursing),Nervous System & Sense Organs,10,3,30.0,7.6,0.7,53.7
+Not Mapped,SNF (Skilled Nursing),Respiratory System,49,13,26.53,6.8,1.12,64.29
+Not Mapped,SNF (Skilled Nursing),Skin & Subcutaneous,22,10,45.45,5.55,0.86,48.14
+Not Mapped,SNF (Skilled Nursing),Supplementary (V-codes),11,2,18.18,6.82,1.64,35.73
+Not Mapped,SNF (Skilled Nursing),Symptoms & Ill-defined,15,7,46.67,6.27,1.07,54.47
+Not Mapped,Short-term Hospital Transfer,Circulatory System,68,4,5.88,4.18,1.07,55.65
+Not Mapped,Short-term Hospital Transfer,Digestive System,3,0,0.0,1.33,2.0,69.0
+Not Mapped,Short-term Hospital Transfer,Endocrine/Metabolic (incl. Diabetes),4,0,0.0,3.75,1.0,53.5
+Not Mapped,Short-term Hospital Transfer,Genitourinary System,2,0,0.0,9.0,2.5,79.5
+Not Mapped,Short-term Hospital Transfer,Infectious & Parasitic,1,0,0.0,4.0,3.0,75.0
+Not Mapped,Short-term Hospital Transfer,Injury & Poisoning,6,1,16.67,8.33,2.0,62.17
+Not Mapped,Short-term Hospital Transfer,Mental Disorders,5,3,60.0,4.4,1.0,56.8
+Not Mapped,Short-term Hospital Transfer,Neoplasms,2,1,50.0,7.5,2.5,79.5
+Not Mapped,Short-term Hospital Transfer,Nervous System & Sense Organs,2,0,0.0,8.5,1.0,47.0
+Not Mapped,Short-term Hospital Transfer,Respiratory System,7,0,0.0,5.43,1.43,59.43
+Not Mapped,Short-term Hospital Transfer,Supplementary (V-codes),4,3,75.0,5.5,1.0,48.25
+Not Mapped,Short-term Hospital Transfer,Symptoms & Ill-defined,7,1,14.29,4.0,0.71,64.43
+Trauma Center,Discharged to Home,Injury & Poisoning,5,0,0.0,2.8,2.2,43.4
+Trauma Center,Expired,Circulatory System,1,0,0.0,1.0,2.0,1.0
+Trauma Center,Expired,Injury & Poisoning,2,0,0.0,1.5,3.0,42.0
+Trauma Center,Home Health Service,Injury & Poisoning,3,0,0.0,6.0,3.33,40.67
+Trauma Center,Rehab Facility Transfer,Injury & Poisoning,3,0,0.0,9.0,4.33,62.67
+Trauma Center,SNF (Skilled Nursing),Injury & Poisoning,6,0,0.0,6.0,2.17,57.5
+Trauma Center,Short-term Hospital Transfer,Circulatory System,1,0,0.0,3.0,4.0,48.0
+Urgent,AMA (Against Medical Advice),Circulatory System,13,2,15.38,3.38,1.08,45.15
+Urgent,AMA (Against Medical Advice),Digestive System,5,0,0.0,2.6,2.2,35.8
+Urgent,AMA (Against Medical Advice),Endocrine/Metabolic (incl. Diabetes),7,0,0.0,2.43,0.43,46.14
+Urgent,AMA (Against Medical Advice),Genitourinary System,1,0,0.0,4.0,0.0,40.0
+Urgent,AMA (Against Medical Advice),Infectious & Parasitic,2,0,0.0,2.0,0.5,55.5
+Urgent,AMA (Against Medical Advice),Injury & Poisoning,3,0,0.0,2.67,2.0,36.0
+Urgent,AMA (Against Medical Advice),Mental Disorders,1,0,0.0,5.0,5.0,61.0
+Urgent,AMA (Against Medical Advice),Neoplasms,1,0,0.0,3.0,1.0,27.0
+Urgent,AMA (Against Medical Advice),Nervous System & Sense Organs,2,0,0.0,1.5,0.5,23.0
+Urgent,AMA (Against Medical Advice),Respiratory System,6,0,0.0,1.67,0.0,39.67
+Urgent,AMA (Against Medical Advice),Skin & Subcutaneous,3,0,0.0,2.0,0.33,45.0
+Urgent,AMA (Against Medical Advice),Symptoms & Ill-defined,11,1,9.09,1.55,0.18,27.0
+Urgent,Admitted as Inpatient,Infectious & Parasitic,1,0,0.0,1.0,3.0,46.0
+Urgent,Critical Access Hospital,Circulatory System,1,1,100.0,10.0,1.0,9.0
+Urgent,Critical Access Hospital,Genitourinary System,1,0,0.0,3.0,0.0,21.0
+Urgent,Critical Access Hospital,Mental Disorders,2,0,0.0,4.5,0.5,27.5
+Urgent,Discharged to Home,Blood & Immune,130,16,12.31,3.65,1.42,41.32
+Urgent,Discharged to Home,Circulatory System,2967,206,6.94,3.65,2.57,39.93
+Urgent,Discharged to Home,Congenital Anomalies,3,1,33.33,4.0,2.0,25.0
+Urgent,Discharged to Home,Digestive System,856,63,7.36,3.87,1.52,41.62
+Urgent,Discharged to Home,Endocrine/Metabolic (incl. Diabetes),957,66,6.9,3.79,0.91,39.32
+Urgent,Discharged to Home,Genitourinary System,370,38,10.27,3.46,1.15,42.01
+Urgent,Discharged to Home,Infectious & Parasitic,148,11,7.43,4.32,0.77,46.18
+Urgent,Discharged to Home,Injury & Poisoning,357,25,7.0,3.56,1.74,36.69
+Urgent,Discharged to Home,Mental Disorders,297,20,6.73,5.7,0.39,35.6
+Urgent,Discharged to Home,Musculoskeletal,280,17,6.07,3.56,1.54,31.69
+Urgent,Discharged to Home,Neoplasms,323,31,9.6,4.74,2.11,39.43
+Urgent,Discharged to Home,Nervous System & Sense Organs,85,2,2.35,3.32,1.08,35.84
+Urgent,Discharged to Home,Pregnancy & Childbirth,141,9,6.38,3.54,1.55,31.9
+Urgent,Discharged to Home,Respiratory System,717,64,8.93,4.66,0.54,43.7
+Urgent,Discharged to Home,Skin & Subcutaneous,258,12,4.65,4.21,0.55,39.95
+Urgent,Discharged to Home,Supplementary (V-codes),96,10,10.42,6.48,1.69,34.17
+Urgent,Discharged to Home,Symptoms & Ill-defined,740,54,7.3,2.33,0.9,37.32
+Urgent,Expired,Blood & Immune,1,0,0.0,1.0,1.0,80.0
+Urgent,Expired,Circulatory System,65,0,0.0,4.71,2.55,50.94
+Urgent,Expired,Digestive System,7,0,0.0,6.0,3.43,59.86
+Urgent,Expired,Endocrine/Metabolic (incl. Diabetes),13,0,0.0,3.69,1.54,51.31
+Urgent,Expired,Genitourinary System,5,0,0.0,1.6,0.8,43.0
+Urgent,Expired,Infectious & Parasitic,11,0,0.0,3.91,2.45,57.09
+Urgent,Expired,Injury & Poisoning,11,0,0.0,5.27,2.91,55.36
+Urgent,Expired,Neoplasms,20,0,0.0,6.15,1.35,49.0
+Urgent,Expired,Nervous System & Sense Organs,2,0,0.0,6.0,1.5,65.0
+Urgent,Expired,Respiratory System,22,0,0.0,5.41,1.5,53.23
+Urgent,Expired,Skin & Subcutaneous,1,0,0.0,6.0,2.0,58.0
+Urgent,Expired,Supplementary (V-codes),4,0,0.0,5.5,1.0,40.75
+Urgent,Expired,Symptoms & Ill-defined,2,0,0.0,2.0,0.5,43.0
+Urgent,Expired (at home),Circulatory System,2,0,0.0,1.0,4.5,45.5
+Urgent,Expired (at home),Infectious & Parasitic,1,0,0.0,1.0,4.0,46.0
+Urgent,Home Health Service,Blood & Immune,9,2,22.22,4.33,1.22,35.44
+Urgent,Home Health Service,Circulatory System,394,46,11.68,6.18,2.35,48.4
+Urgent,Home Health Service,Congenital Anomalies,1,0,0.0,5.0,2.0,54.0
+Urgent,Home Health Service,Digestive System,81,13,16.05,6.3,1.94,46.89
+Urgent,Home Health Service,Endocrine/Metabolic (incl. Diabetes),173,23,13.29,5.38,1.58,40.74
+Urgent,Home Health Service,Genitourinary System,44,9,20.45,6.02,1.32,54.16
+Urgent,Home Health Service,Infectious & Parasitic,27,2,7.41,6.74,1.22,49.44
+Urgent,Home Health Service,Injury & Poisoning,116,4,3.45,5.5,1.7,37.71
+Urgent,Home Health Service,Mental Disorders,9,1,11.11,8.44,0.44,27.44
+Urgent,Home Health Service,Musculoskeletal,55,0,0.0,4.82,2.13,35.09
+Urgent,Home Health Service,Neoplasms,70,10,14.29,5.86,2.33,43.64
+Urgent,Home Health Service,Nervous System & Sense Organs,17,1,5.88,5.41,0.65,36.88
+Urgent,Home Health Service,Pregnancy & Childbirth,4,0,0.0,5.0,3.25,47.0
+Urgent,Home Health Service,Respiratory System,95,10,10.53,6.44,0.64,43.05
+Urgent,Home Health Service,Skin & Subcutaneous,89,7,7.87,5.75,1.13,41.35
+Urgent,Home Health Service,Supplementary (V-codes),74,8,10.81,7.86,1.51,25.58
+Urgent,Home Health Service,Symptoms & Ill-defined,39,5,12.82,4.18,1.0,36.05
+Urgent,Home IV Service,Circulatory System,4,0,0.0,9.5,5.5,53.5
+Urgent,Home IV Service,Digestive System,3,1,33.33,6.33,2.33,45.33
+Urgent,Home IV Service,Endocrine/Metabolic (incl. Diabetes),5,1,20.0,10.0,2.8,52.4
+Urgent,Home IV Service,Genitourinary System,1,0,0.0,10.0,0.0,47.0
+Urgent,Home IV Service,Infectious & Parasitic,1,0,0.0,5.0,2.0,56.0
+Urgent,Home IV Service,Injury & Poisoning,4,1,25.0,6.25,2.25,29.25
+Urgent,Home IV Service,Musculoskeletal,1,0,0.0,5.0,2.0,36.0
+Urgent,Home IV Service,Nervous System & Sense Organs,2,0,0.0,6.5,2.0,60.0
+Urgent,Home IV Service,Skin & Subcutaneous,4,0,0.0,3.75,2.5,26.75
+Urgent,Hospice / Home,Blood & Immune,1,0,0.0,3.0,0.0,42.0
+Urgent,Hospice / Home,Circulatory System,5,0,0.0,7.6,1.6,50.0
+Urgent,Hospice / Home,Endocrine/Metabolic (incl. Diabetes),2,0,0.0,3.5,0.0,48.5
+Urgent,Hospice / Home,Genitourinary System,3,1,33.33,4.67,0.33,28.33
+Urgent,Hospice / Home,Injury & Poisoning,1,0,0.0,5.0,1.0,45.0
+Urgent,Hospice / Home,Musculoskeletal,2,0,0.0,4.0,1.0,45.5
+Urgent,Hospice / Home,Neoplasms,19,0,0.0,6.89,1.47,44.37
+Urgent,Hospice / Home,Respiratory System,6,0,0.0,7.0,0.83,58.17
+Urgent,Hospice / Home,Supplementary (V-codes),1,0,0.0,9.0,2.0,43.0
+Urgent,Hospice / Home,Symptoms & Ill-defined,1,0,0.0,4.0,0.0,44.0
+Urgent,Hospice / Home,Unknown,1,0,0.0,7.0,2.0,1.0
+Urgent,Hospice / Medical Facility,Circulatory System,3,0,0.0,5.67,0.67,53.33
+Urgent,Hospice / Medical Facility,Endocrine/Metabolic (incl. Diabetes),1,0,0.0,5.0,1.0,34.0
+Urgent,Hospice / Medical Facility,Genitourinary System,1,0,0.0,5.0,0.0,36.0
+Urgent,Hospice / Medical Facility,Neoplasms,8,0,0.0,4.75,0.88,40.88
+Urgent,Hospice / Medical Facility,Respiratory System,2,0,0.0,4.5,0.5,54.5
+Urgent,Hospice / Medical Facility,Skin & Subcutaneous,1,0,0.0,6.0,0.0,25.0
+Urgent,Hospice / Medical Facility,Symptoms & Ill-defined,1,0,0.0,6.0,1.0,69.0
+Urgent,ICF (Intermediate Care),Blood & Immune,2,0,0.0,2.5,2.0,29.5
+Urgent,ICF (Intermediate Care),Circulatory System,33,4,12.12,5.73,1.3,38.64
+Urgent,ICF (Intermediate Care),Digestive System,8,0,0.0,3.75,0.75,46.88
+Urgent,ICF (Intermediate Care),Endocrine/Metabolic (incl. Diabetes),14,0,0.0,5.64,1.0,39.36
+Urgent,ICF (Intermediate Care),Genitourinary System,9,1,11.11,4.89,0.67,46.0
+Urgent,ICF (Intermediate Care),Infectious & Parasitic,9,3,33.33,6.78,1.11,47.44
+Urgent,ICF (Intermediate Care),Injury & Poisoning,8,0,0.0,5.38,1.75,54.38
+Urgent,ICF (Intermediate Care),Mental Disorders,16,1,6.25,7.31,0.06,26.19
+Urgent,ICF (Intermediate Care),Musculoskeletal,4,0,0.0,5.0,1.0,46.5
+Urgent,ICF (Intermediate Care),Neoplasms,4,0,0.0,8.0,1.75,38.5
+Urgent,ICF (Intermediate Care),Nervous System & Sense Organs,3,0,0.0,3.33,0.67,29.0
+Urgent,ICF (Intermediate Care),Pregnancy & Childbirth,1,0,0.0,2.0,0.0,43.0
+Urgent,ICF (Intermediate Care),Respiratory System,19,2,10.53,5.68,0.37,38.32
+Urgent,ICF (Intermediate Care),Skin & Subcutaneous,6,1,16.67,7.33,1.17,50.33
+Urgent,ICF (Intermediate Care),Supplementary (V-codes),6,0,0.0,7.17,1.33,26.83
+Urgent,ICF (Intermediate Care),Symptoms & Ill-defined,19,1,5.26,2.84,0.37,38.05
+Urgent,Long-term Hospital Transfer,Circulatory System,5,1,20.0,10.0,3.4,54.6
+Urgent,Long-term Hospital Transfer,Digestive System,2,0,0.0,5.5,2.0,39.5
+Urgent,Long-term Hospital Transfer,Endocrine/Metabolic (incl. Diabetes),5,0,0.0,7.4,2.2,41.8
+Urgent,Long-term Hospital Transfer,Infectious & Parasitic,1,0,0.0,12.0,4.0,68.0
+Urgent,Long-term Hospital Transfer,Injury & Poisoning,4,0,0.0,8.25,1.75,31.75
+Urgent,Long-term Hospital Transfer,Mental Disorders,1,0,0.0,3.0,0.0,1.0
+Urgent,Long-term Hospital Transfer,Musculoskeletal,1,0,0.0,4.0,0.0,51.0
+Urgent,Long-term Hospital Transfer,Neoplasms,1,0,0.0,14.0,6.0,29.0
+Urgent,Long-term Hospital Transfer,Nervous System & Sense Organs,1,0,0.0,3.0,2.0,41.0
+Urgent,Long-term Hospital Transfer,Skin & Subcutaneous,3,0,0.0,7.33,0.67,38.33
+Urgent,Medicaid Facility,Circulatory System,1,0,0.0,6.0,0.0,31.0
+Urgent,Medicaid Facility,Mental Disorders,1,0,0.0,4.0,0.0,20.0
+Urgent,Not Mapped,Mental Disorders,3,1,33.33,4.67,1.67,61.33
+Urgent,Not Mapped,Neoplasms,2,0,0.0,9.0,3.0,76.5
+Urgent,Not Mapped,Symptoms & Ill-defined,1,0,0.0,3.0,2.0,22.0
+Urgent,Other Institution Transfer,Blood & Immune,2,0,0.0,6.0,1.0,36.5
+Urgent,Other Institution Transfer,Circulatory System,53,10,18.87,6.58,1.47,46.58
+Urgent,Other Institution Transfer,Digestive System,7,0,0.0,6.29,1.57,54.57
+Urgent,Other Institution Transfer,Endocrine/Metabolic (incl. Diabetes),18,6,33.33,6.0,0.89,43.06
+Urgent,Other Institution Transfer,Genitourinary System,6,1,16.67,5.0,0.67,55.33
+Urgent,Other Institution Transfer,Infectious & Parasitic,2,0,0.0,3.5,0.5,50.5
+Urgent,Other Institution Transfer,Injury & Poisoning,19,2,10.53,4.53,1.16,45.37
+Urgent,Other Institution Transfer,Mental Disorders,12,3,25.0,6.67,0.58,45.25
+Urgent,Other Institution Transfer,Musculoskeletal,19,4,21.05,4.32,1.42,37.84
+Urgent,Other Institution Transfer,Neoplasms,1,0,0.0,8.0,6.0,75.0
+Urgent,Other Institution Transfer,Nervous System & Sense Organs,4,0,0.0,7.5,0.0,50.0
+Urgent,Other Institution Transfer,Respiratory System,14,0,0.0,5.21,0.5,43.93
+Urgent,Other Institution Transfer,Skin & Subcutaneous,3,0,0.0,6.67,0.33,47.0
+Urgent,Other Institution Transfer,Supplementary (V-codes),3,1,33.33,5.0,3.0,36.67
+Urgent,Other Institution Transfer,Symptoms & Ill-defined,9,0,0.0,2.33,0.22,35.67
+Urgent,Rehab Facility Transfer,Blood & Immune,2,0,0.0,6.5,2.5,51.5
+Urgent,Rehab Facility Transfer,Circulatory System,90,20,22.22,6.51,1.46,47.18
+Urgent,Rehab Facility Transfer,Digestive System,5,1,20.0,8.8,1.0,57.8
+Urgent,Rehab Facility Transfer,Endocrine/Metabolic (incl. Diabetes),18,4,22.22,6.17,1.39,45.44
+Urgent,Rehab Facility Transfer,Genitourinary System,5,0,0.0,4.4,0.2,57.2
+Urgent,Rehab Facility Transfer,Infectious & Parasitic,5,1,20.0,8.4,1.2,45.0
+Urgent,Rehab Facility Transfer,Injury & Poisoning,50,10,20.0,5.96,1.78,42.6
+Urgent,Rehab Facility Transfer,Musculoskeletal,8,1,12.5,6.12,2.75,37.88
+Urgent,Rehab Facility Transfer,Neoplasms,4,0,0.0,8.5,2.25,50.25
+Urgent,Rehab Facility Transfer,Nervous System & Sense Organs,10,0,0.0,5.7,1.3,48.7
+Urgent,Rehab Facility Transfer,Respiratory System,4,1,25.0,4.75,0.25,48.25
+Urgent,Rehab Facility Transfer,Skin & Subcutaneous,4,0,0.0,7.25,1.25,41.5
+Urgent,Rehab Facility Transfer,Supplementary (V-codes),15,1,6.67,8.6,1.53,23.27
+Urgent,Rehab Facility Transfer,Symptoms & Ill-defined,8,1,12.5,5.25,0.38,34.0
+Urgent,SNF (Skilled Nursing),Blood & Immune,16,1,6.25,4.62,1.5,46.5
+Urgent,SNF (Skilled Nursing),Circulatory System,303,42,13.86,6.36,1.75,47.36
+Urgent,SNF (Skilled Nursing),Congenital Anomalies,1,0,0.0,8.0,0.0,54.0
+Urgent,SNF (Skilled Nursing),Digestive System,81,19,23.46,6.81,1.8,48.31
+Urgent,SNF (Skilled Nursing),Endocrine/Metabolic (incl. Diabetes),184,25,13.59,6.7,1.58,41.51
+Urgent,SNF (Skilled Nursing),Genitourinary System,78,7,8.97,6.0,0.81,47.29
+Urgent,SNF (Skilled Nursing),Infectious & Parasitic,49,8,16.33,7.98,1.51,50.76
+Urgent,SNF (Skilled Nursing),Injury & Poisoning,185,32,17.3,5.58,1.63,41.66
+Urgent,SNF (Skilled Nursing),Mental Disorders,12,0,0.0,4.67,0.25,34.92
+Urgent,SNF (Skilled Nursing),Musculoskeletal,132,12,9.09,4.36,1.82,38.57
+Urgent,SNF (Skilled Nursing),Neoplasms,53,4,7.55,7.74,2.38,42.57
+Urgent,SNF (Skilled Nursing),Nervous System & Sense Organs,25,4,16.0,6.16,1.0,44.08
+Urgent,SNF (Skilled Nursing),Respiratory System,151,16,10.6,6.23,0.87,45.42
+Urgent,SNF (Skilled Nursing),Skin & Subcutaneous,54,10,18.52,6.31,0.93,38.69
+Urgent,SNF (Skilled Nursing),Supplementary (V-codes),20,2,10.0,8.25,1.55,26.4
+Urgent,SNF (Skilled Nursing),Symptoms & Ill-defined,62,6,9.68,4.89,1.31,46.79
+Urgent,Short-term Hospital Transfer,Blood & Immune,1,0,0.0,3.0,0.0,2.0
+Urgent,Short-term Hospital Transfer,Circulatory System,178,17,9.55,3.56,2.33,41.42
+Urgent,Short-term Hospital Transfer,Digestive System,13,0,0.0,3.85,1.31,40.62
+Urgent,Short-term Hospital Transfer,Endocrine/Metabolic (incl. Diabetes),12,4,33.33,4.58,0.92,46.92
+Urgent,Short-term Hospital Transfer,Genitourinary System,1,0,0.0,1.0,0.0,58.0
+Urgent,Short-term Hospital Transfer,Infectious & Parasitic,7,0,0.0,6.71,1.29,59.71
+Urgent,Short-term Hospital Transfer,Injury & Poisoning,11,2,18.18,2.45,0.55,37.64
+Urgent,Short-term Hospital Transfer,Mental Disorders,20,15,75.0,4.05,0.35,37.75
+Urgent,Short-term Hospital Transfer,Musculoskeletal,1,0,0.0,4.0,0.0,40.0
+Urgent,Short-term Hospital Transfer,Neoplasms,10,1,10.0,5.8,1.3,54.0
+Urgent,Short-term Hospital Transfer,Nervous System & Sense Organs,1,0,0.0,1.0,0.0,45.0
+Urgent,Short-term Hospital Transfer,Respiratory System,9,0,0.0,6.44,2.33,41.22
+Urgent,Short-term Hospital Transfer,Skin & Subcutaneous,4,1,25.0,6.0,2.5,35.5
+Urgent,Short-term Hospital Transfer,Supplementary (V-codes),16,9,56.25,6.0,1.69,38.5
+Urgent,Short-term Hospital Transfer,Symptoms & Ill-defined,8,0,0.0,3.75,1.38,40.5
+Urgent,Still Patient,Mental Disorders,1,1,100.0,6.0,0.0,35.0
+Urgent,Swing Bed,Circulatory System,2,0,0.0,5.5,0.5,58.5
+Urgent,Swing Bed,Endocrine/Metabolic (incl. Diabetes),1,0,0.0,4.0,3.0,27.0
+Urgent,Swing Bed,Injury & Poisoning,2,1,50.0,8.5,2.0,68.5
+Urgent,Swing Bed,Neoplasms,3,1,33.33,5.0,3.33,37.33
+Urgent,Swing Bed,Respiratory System,2,1,50.0,5.5,0.5,37.0
+Urgent,Swing Bed,Skin & Subcutaneous,1,1,100.0,7.0,0.0,34.0
+Urgent,Swing Bed,Supplementary (V-codes),1,0,0.0,5.0,1.0,44.0
+Urgent,Undetermined,Endocrine/Metabolic (incl. Diabetes),1,0,0.0,5.0,2.0,10.0
