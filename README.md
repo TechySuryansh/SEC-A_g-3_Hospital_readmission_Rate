@@ -18,6 +18,8 @@
 
 ---
 
+
+..
 ## Business Problem
 High hospital readmission rates are a critical challenge for healthcare providers, leading to increased costs and suboptimal patient outcomes. For diabetic patients, managing clinical factors, medications, and comorbidities is essential to reducing 30-day readmissions—a key performance indicator for hospital quality.
 
